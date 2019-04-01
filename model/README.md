@@ -1,1 +1,0 @@
-You can download the 68 landmarks model on [dlib-models repository](https://github.com/davisking/dlib-models).
